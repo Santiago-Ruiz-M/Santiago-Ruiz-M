@@ -1,4 +1,4 @@
-![Banner Santiago Ruiz](Banner1.png)
+![Banner Santiago Ruiz](/img/Banner1.png)
 
 </p>
 <p align="center">
